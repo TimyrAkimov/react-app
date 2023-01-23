@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .button{
+        @apply h-[50px] w-[188px] rounded-[50px] mt-[60px] bg-lavender 
+        text-white flex justify-evenly items-center hover:bg-violet-800;
+    }
+}
