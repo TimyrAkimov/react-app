@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.11d20eb1.css",
+    "main.js": "/react-app/static/js/main.712997cd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/photo.svg": "/react-app/static/media/photo.be03e84f423772884177346254150606.svg",
+    "static/media/photo2.png": "/react-app/static/media/photo2.63090d0ce5ca6ecf698b.png",
+    "static/media/background-square.png": "/react-app/static/media/background-square.94f3e234a2722eaa578f.png",
+    "static/media/background-full.jpg": "/react-app/static/media/background-full.dab0669b01b99a8625c0.jpg",
+    "static/media/Montserrat-Medium.ttf": "/react-app/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/background.svg": "/react-app/static/media/background.decd6374fd6529b7be95720e536a2bfe.svg",
+    "static/media/logo.svg": "/react-app/static/media/logo.5d5b8d2e07e2145600fd17348bad1783.svg",
+    "static/media/art.svg": "/react-app/static/media/art.6794fb3869c1eacea2c7b3c2c7c8d1b6.svg",
+    "static/media/music.svg": "/react-app/static/media/music.64c18f024654474b425d9dfccb8e92d5.svg",
+    "static/media/photography.svg": "/react-app/static/media/photography.d27fc47dce5abba9d8875df49008bfa1.svg",
+    "index.html": "/react-app/index.html",
+    "static/media/lead.svg": "/react-app/static/media/lead.4621c5f6b93f85c130e57f3e279cef17.svg",
+    "main.11d20eb1.css.map": "/react-app/static/css/main.11d20eb1.css.map",
+    "main.712997cd.js.map": "/react-app/static/js/main.712997cd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d20eb1.css",
+    "static/js/main.712997cd.js"
+  ]
+}
