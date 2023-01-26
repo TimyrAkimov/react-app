@@ -9,7 +9,7 @@ import art from "./images/art.svg"
 import photography from "./images/photography.svg"
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header>
